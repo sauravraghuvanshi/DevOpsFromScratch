@@ -25,14 +25,18 @@ This repository is your **complete roadmap** to mastering DevOps from absolute z
 
 ## 📚 Learning Path
 
-### 🏁 Getting Started
-| Serial No| Topic | Description | Status |
-|------|-------|-------------|---------|
-| **0** | [DevOps Prerequisites](DevOps_Prerequisites/README.md) | Essential foundations: What is DevOps, basic terminology, and mindset preparation | ✅ In Progress |
-| **1** | [Linux Basics](Linux-Basics/README.md) | Master command-line, file systems, permissions & shell scripting | 🚧 Coming Soon |
-| **2** | [Docker Introduction](Week-02_Docker-Intro/README.md) | Container fundamentals, images, and your first containerized app | 🚧 Coming Soon |
-| **3** | Git & Version Control | Branching, merging, and collaborative workflows | 🚧 Coming Soon |
-| **4** | CI/CD Fundamentals | Automated testing, building, and deployment pipelines | 🚧 Coming Soon |
+### 🏁 Learning Modules
+
+#### **Module 00: DevOps Prerequisites** 🎯
+*Essential foundations before diving into technical skills*
+
+| Sub-Module | Topic | Description | Status |
+|------------|-------|-------------|---------|
+| 00.1 | [What is DevOps?](DevOps_Prerequisites/01-What-is-DevOps.md) | Understanding DevOps culture, principles, and benefits | ✅ In Progress |
+| 00.2 | [DevOps Terminology](DevOps_Prerequisites/02-DevOps-Terminology.md) | Key terms and concepts you'll encounter | 📋 Planned |
+
+#### **Module 01: Linux Basics** 🐧
+*Master the foundation of most DevOps environments*
 
 
 ### 🎓 What Each Week Includes
@@ -61,13 +65,12 @@ Supplement your learning with these excellent resources:
 
 ### 🎥 Video Content
 - **KodeKloud** - Hands-on DevOps labs and courses
-- **TechWorld with Nana** - DevOps tutorials and explanations
 - **Cloud Native Computing Foundation (CNCF)** - Kubernetes and cloud-native technologies
 
 ### 🛠️ Practice Platforms
 - **Katacoda** - Interactive learning scenarios
 - **Play with Docker** - Browser-based Docker playground
-- **AWS Free Tier** - Hands-on cloud experience
+- **Azure Free Tier** - Hands-on cloud experience
 
 ## 🤝 Community & Support
 
