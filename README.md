@@ -28,6 +28,7 @@ This repository is your **complete roadmap** to mastering DevOps from absolute z
 ### 🏁 Learning Modules
 
 #### **Module 00: DevOps Prerequisites** 🎯
+
 *Essential foundations before diving into technical skills*
 
 | Sub-Module | Topic | Description | Status |
@@ -36,10 +37,12 @@ This repository is your **complete roadmap** to mastering DevOps from absolute z
 | 00.2 | [DevOps Terminology](DevOps_Prerequisites/02-DevOps-Terminology.md) | Key terms and concepts you'll encounter | 📋 Planned |
 
 #### **Module 01: Linux Basics** 🐧
+
 *Master the foundation of most DevOps environments*
 
 
 ### 🎓 What Each Week Includes
+
 - 📖 **Comprehensive Tutorial:** Step-by-step explanations with real examples
 - 🔧 **Tools & Setup:** Everything you need to get started
 - 📝 **Best Practices:** Industry standards and common pitfalls to avoid
@@ -52,24 +55,25 @@ This repository is your **complete roadmap** to mastering DevOps from absolute z
 3. **💬 Join the community** - Ask questions, share progress, help others
 4. **🔄 Follow along weekly** - New content added regularly
 
-> **New to programming?** Don't worry! This course assumes no prior experience and starts from the very beginning.
+> **New to programming?** Don't worry! This assumes no prior experience and starts from the very beginning.
 
 ## 📖 Recommended Learning Resources
 
 Supplement your learning with these excellent resources:
 
 ### 📚 Books
+
 - **"The Phoenix Project"** - DevOps principles in action
 - **"The DevOps Handbook"** - Comprehensive DevOps guide
 - **"Site Reliability Engineering"** - Google's approach to production systems
 
 ### 🎥 Video Content
+
 - **KodeKloud** - Hands-on DevOps labs and courses
 - **Cloud Native Computing Foundation (CNCF)** - Kubernetes and cloud-native technologies
 
 ### 🛠️ Practice Platforms
-- **Katacoda** - Interactive learning scenarios
-- **Play with Docker** - Browser-based Docker playground
+
 - **Azure Free Tier** - Hands-on cloud experience
 
 ## 🤝 Community & Support
@@ -78,10 +82,6 @@ Supplement your learning with these excellent resources:
 - 🐛 **Found a bug?** Submit a pull request with fixes
 - 💡 **Suggestions?** Share ideas for new topics or improvements
 - 🌟 **Success story?** Share your progress and inspire others!
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
