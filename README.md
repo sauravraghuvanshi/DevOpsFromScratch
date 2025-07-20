@@ -62,18 +62,15 @@ This repository is your **complete roadmap** to mastering DevOps from absolute z
 Supplement your learning with these excellent resources:
 
 ### 📚 Books
-
 - **"The Phoenix Project"** - DevOps principles in action
 - **"The DevOps Handbook"** - Comprehensive DevOps guide
 - **"Site Reliability Engineering"** - Google's approach to production systems
 
 ### 🎥 Video Content
-
 - **KodeKloud** - Hands-on DevOps labs and courses
 - **Cloud Native Computing Foundation (CNCF)** - Kubernetes and cloud-native technologies
 
 ### 🛠️ Practice Platforms
-
 - **Azure Free Tier** - Hands-on cloud experience
 
 ## 🤝 Community & Support
